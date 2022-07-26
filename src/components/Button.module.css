@@ -1,0 +1,9 @@
+.button {
+  width: 300px;
+  height: 100px;
+  color: white;
+  background-color: black;
+}
+.button-disabled {
+  background-color: blue;
+}
